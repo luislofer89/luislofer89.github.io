@@ -62,7 +62,7 @@ params:
     enabled: true # needs to be explicitly set
     title: Luis Lopez Fernandez (Work In Progress)
     subtitle: "My personal blog to collect and summarize AI-related topics"
-    imageUrl: "/assets/images/profile.jpg"
+    imageUrl: "/content/assets/images/profile.jpg"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image

@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://luislf.xyz/blog/posts/test_1/</loc>
+    <loc>https://luislf.xyz/posts/test_1/</loc>
     <lastmod>2023-01-27T14:01:40+01:00</lastmod>
   </url><url>
-    <loc>https://luislf.xyz/blog/</loc>
+    <loc>https://luislf.xyz/</loc>
     <lastmod>2023-01-27T14:01:40+01:00</lastmod>
   </url><url>
-    <loc>https://luislf.xyz/blog/posts/</loc>
+    <loc>https://luislf.xyz/posts/</loc>
     <lastmod>2023-01-27T14:01:40+01:00</lastmod>
   </url><url>
-    <loc>https://luislf.xyz/blog/about_me/</loc>
+    <loc>https://luislf.xyz/about_me/</loc>
   </url><url>
-    <loc>https://luislf.xyz/blog/categories/</loc>
+    <loc>https://luislf.xyz/categories/</loc>
   </url><url>
-    <loc>https://luislf.xyz/blog/search/</loc>
+    <loc>https://luislf.xyz/search/</loc>
   </url><url>
-    <loc>https://luislf.xyz/blog/tags/</loc>
+    <loc>https://luislf.xyz/tags/</loc>
   </url>
 </urlset>
