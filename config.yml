@@ -1,10 +1,6 @@
-<<<<<<< Updated upstream
-baseURL: http://example.org/
-languageCode: en-us
-title: My New Hugo Site
-=======
 baseURL: "https://luislf.xyz/blog"
-title: LuisLF
+languageCode: en-us
+title: Luis Lopez Fernandez
 paginate: 5
 theme: PaperMod
 
@@ -159,4 +155,3 @@ outputs:
         - HTML
         - RSS
         - JSON # is necessary
->>>>>>> Stashed changes
