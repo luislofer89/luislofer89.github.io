@@ -10,6 +10,10 @@ In the past I ...
 
 In [highlight some achievements]
 
+My certifications can be found [here](../certif)
+My Scientific publications can be found [here](../publ)
+You can download my updated CV [here](../assets/230829_CV_LuisLopezFernandez.pdf)
+
 I found my passion for Artificial Intelligence and Project Management X years ago. Since then I never stopped learning. Currently, I am focusing myself in ... to innovate and  generate business value.
 
 I write about all the stuff i am working under [my personal notes](https://www.luislf.xyz/blog) and you can finde me on [linkedIn](https://linkedin.com/in/luislopezfdez), X(twitter) @[luislofer89](https://twitter.com/luislofer89) or [Instagram](https://www.instagram.com/luisloez89)
