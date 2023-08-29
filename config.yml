@@ -1,6 +1,6 @@
 baseURL: "https://luislf.xyz"
 languageCode: en-us
-title: Luis Lopez Fernandez
+title: Luis López Fernández
 paginate: 5
 theme: PaperMod
 
@@ -17,10 +17,10 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: LuisLF
-  description: "My personal site to collect and summarize AI-related topics #AI"
-  keywords: [Blog, Portfolio, PaperMod]
-  author: Luis Lopez Fernandez
+  title: Luis López Fernández
+  description: "Personal website of Luis López Fernández"
+  keywords: [Artificial Intelligence, AI, Machine Learning, ML, Project Management, Portfolio, Leadership, Engineering]
+  author: Luis López Fernández
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
@@ -32,7 +32,7 @@ params:
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
-  ShowWordCount: true
+  ShowWordCount: false
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
   disableSpecial1stPost: false
@@ -53,24 +53,25 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Luis Lopez Fernandez"
+    text: "LLF"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: Luis Lopez Fernandez (Work In Progress)
-    subtitle: "My personal blog to collect and summarize AI-related topics"
+    title: Luis López Fernández
+    subtitle_1: 🧠Artificial Intelligence, Machine Learning | 🎯Project Management, Leadership
+    subtitle_2: 🚀Engineering the Future, Managing Today's Tech
     imageUrl: "/assets/images/profile.png"
     imageWidth: 250
     imageHeight: 250
     imageTitle: profile_image
-    buttons:
-      - name: Posts
-        url: posts
-      - name: Tags
-        url: tags
+    # buttons:
+    #   - name: Posts
+    #     url: posts
+    #   - name: Tags
+    #     url: tags
 
   # home-info mode
   homeInfoParams:
@@ -100,10 +101,10 @@ params:
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
 
-  editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+  # editPost:
+  #   URL: "https://github.com/<path_to_repo>/content"
+  #   Text: "Suggest Changes" # edit text
+  #   appendFilePath: true # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html
@@ -118,11 +119,11 @@ params:
 menu:
   main:
     - identifier: categories
-      name: categories
+      name: Categories
       url: /categories/
       weight: 10
     - identifier: tags
-      name: tags
+      name: Tags
       url: /tags/
       weight: 20
     - identifier: posts
