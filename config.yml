@@ -67,11 +67,14 @@ params:
     imageWidth: 250
     imageHeight: 250
     imageTitle: profile_image
-    # buttons:
-    #   - name: Posts
-    #     url: posts
-    #   - name: Tags
-    #     url: tags
+    buttons:
+      - name: About me
+        url: about_me      
+      - name: CV
+        url: assets/230829_CV_LuisLopezFernandez.pdf
+      - name: Contact me
+        url: mailto:luislofer89@gmail.com
+
 
   # home-info mode
   homeInfoParams:
