@@ -72,7 +72,7 @@ params:
         url: about_me      
       - name: CV
         url: assets/230829_CV_LuisLopezFernandez.pdf
-      - name: Contact me
+      - name: Contact Me
         url: mailto:luislofer89@gmail.com
 
 
@@ -137,8 +137,8 @@ menu:
       name: Search
       url: /search
       weight: 20
-    - identifier: About me
-      name: About me
+    - identifier: About Me
+      name: About Me
       url: /about_me
       weight: 30
 
