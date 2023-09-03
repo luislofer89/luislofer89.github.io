@@ -68,7 +68,7 @@ params:
     imageHeight: 250
     imageTitle: profile_image
     buttons:
-      - name: About me
+      - name: About Me
         url: about_me      
       - name: CV
         url: assets/230829_CV_LuisLopezFernandez.pdf
