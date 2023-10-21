@@ -71,7 +71,7 @@ params:
       - name: About Me
         url: about_me      
       - name: CV
-        url: assets/230829_CV_LuisLopezFernandez.pdf
+        url: assets/CV_LuisLopezFernandez.pdf
       - name: Contact Me
         url: mailto:luislofer89@gmail.com
 
