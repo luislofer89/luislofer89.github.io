@@ -1,0 +1,170 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.2/schema.json
+cv:
+  name: "Luis López Fernández"
+  title: "Artificial Intelligence Engineer & Project Manager"
+  email: "luislofer@proton.me"
+  phone: "+41 78 727 82 85"
+  location: "Altstätten, St. Gallen, Switzerland"
+  website: "https://luislf.xyz"
+  social_networks:
+    - network: LinkedIn
+      username: "luislopezfdez"
+
+  sections:
+    summary:
+      - "With over 10 years in the AI domain, I am an experienced Artificial Intelligence Engineer and Project Manager, proficient in both the technical and managerial aspects of AI projects."
+      - "From ideation to deployment, my expertise spans the entire AI project lifecycle, bridging the gap between technical and non-technical stakeholders."
+      - "I stay abreast of the latest advancements, implement contemporary solutions, and advocate for ethical AI practices."
+      - "Beyond hands-on work, I actively engage in AI conferences and mentorship, committed to shaping and sharing the future of Artificial Intelligence."
+
+    key_achievements:
+      - bullet: "Led development of generative AI prototypes integrated into Hexagon AB’s innovation portfolio."
+      - bullet: "Directed multiple AI and computer vision projects from concept to production in industry and academia."
+      - bullet: "Deployed a real-time LiDAR processing stack for ADAS platforms of a major automotive OEM."
+      - bullet: "Published over 10 peer-reviewed papers in photogrammetry and AI."
+      - bullet: "Served as Scrum Master and technical lead in cross-disciplinary teams across Europe."
+      - bullet: "Delivered scalable AI infrastructure for machine-learning operations and monitoring."
+
+    experience:
+      - company: "Hexagon AB — Innovation Hub (AI Hub)"
+        position: "Generative AI Lead"
+        location: "Heerbrugg, Switzerland"
+        start_date: "2023-10"
+        end_date: "present"
+        highlights:
+          - "Design and implementation of generative AI solutions supporting Hexagon AB processes and product portfolio."
+          - "Exploration of LLM and multimodal generation techniques for enterprise integration."
+      - company: "Hexagon AB — Innovation Hub (AI Hub)"
+        position: "Technical Project Manager & Machine Learning Engineer"
+        location: "Heerbrugg, Switzerland"
+        start_date: "2020-07"
+        end_date: "present"
+        highlights:
+          - "Architected AI solutions for efficient processing of multimodal data (point clouds, imagery, GNSS)."
+          - "Managed and executed research projects, proofs of concept, and feasibility studies."
+          - "Designed ML infrastructure for scalable training and deployment of models in production."
+          - "Coordinated multidisciplinary teams of engineers and researchers across departments."
+
+      - company: "Tidop Research Group — University of Salamanca"
+        position: "Postdoctoral Researcher & Consultant"
+        location: "Salamanca, Spain"
+        start_date: "2017-10"
+        end_date: "present"
+        highlights:
+          - "Research and consulting in photogrammetry, computer vision, and artificial intelligence."
+          - "Collaborated in numerous funded research projects and academic/industry partnerships."
+          - "Provided technical guidance on data fusion and 3D modelling methods."
+      - company: "Tidop Research Group — University of Salamanca"
+        position: "Predoctoral Researcher"
+        location: "Salamanca, Spain"
+        start_date: "2014-06"
+        end_date: "2017-08"
+        highlights:
+          - "Investigated geomatics and machine learning applications for energy optimisation."
+          - "Contributed to software development and scientific publications on remote sensing."
+
+      - company: "CTAG — Automotive Technology Centre of Galicia"
+        position: "SCRUM Master & Computer Vision Engineer"
+        location: "O Porriño, Spain"
+        start_date: "2018-03"
+        end_date: "2020-06"
+        highlights:
+          - "Developed real-time LiDAR processing stack for ADAS platforms of automotive OEMs."
+          - "Created calibration and perception algorithms for RADAR, LiDAR and camera systems."
+          - "Facilitated Agile/Scrum processes, improving team velocity and quality delivery."
+
+      - company: "INSITU Engineering"
+        position: "R&D Project Manager & Computer Vision Engineer"
+        location: "Vigo, Spain"
+        start_date: "2016-07"
+        end_date: "2018-02"
+        highlights:
+          - "Managed AI and computer vision R&D projects combining GNSS, LiDAR and imagery data."
+          - "Designed multi-sensor calibration strategies for infrastructure inspection systems."
+          - "Coordinated technical development teams and project stakeholders."
+
+    education:
+      - institution: "University of Salamanca"
+        area: "Geotechnologies applied to Construction, Energy and Industry"
+        degree: "PhD"
+        location: "Salamanca, Spain"
+        start_date: "2013-09"
+        end_date: "2017-07"
+        highlights:
+          - "Research in computer vision and energy optimisation applications."
+      - institution: "University of Salamanca"
+        area: "Cartographic Geotechnologies applied to Engineering and Architecture"
+        degree: "MSc"
+        location: "Salamanca, Spain"
+        start_date: "2012-09"
+        end_date: "2013-07"
+        highlights:
+          - "Focus on photogrammetry and spatial data processing."
+      - institution: "University of Oviedo"
+        area: "Surveying Engineering"
+        degree: "BSc"
+        location: "Oviedo, Spain"
+        start_date: "2007-09"
+        end_date: "2011-07"
+      - institution: "C.I.F.P. de Avilés"
+        area: "Multiplatform & Web Applications Development"
+        degree: "Certificates of Higher Education"
+        location: "Avilés, Spain"
+        start_date: "2013-09"
+        end_date: "2016-06"
+        highlights:
+          - "Dual program in software engineering and development."
+
+    skills:
+      - label: "Artificial Intelligence & Machine Learning"
+        details: "Generative AI, Deep Learning, Reinforcement Learning, Natural Language Processing (LLMs), Computer Vision, Photogrammetry, 3D Reconstruction, Data Fusion, Feature Matching"
+      - label: "Programming & Frameworks"
+        details: "Python, PyTorch, TensorFlow, Scikit-learn, OpenCV, NumPy, Pandas, Matplotlib, Hugging Face Transformers, Docker, Git"
+      - label: "Data & Infrastructure"
+        details: "MLOps, Model Deployment, Cloud Platforms (GCP, AWS), Data Pipelines, CI/CD, Monitoring & Logging"
+      - label: "Project Management & Methodologies"
+        details: "Agile (Scrum, Kanban), Project Lifecycle Management, Stakeholder Communication, Leadership & Mentoring, Technical Documentation"
+
+    certifications:
+      - label: "Professional Data Engineer (Google)"
+        details: "https://www.credential.net/ecf7d251-c22a-442b-aece-f9c68c888987"
+      - label: "Project Management Certificate (Google)"
+        details: "https://www.credly.com/badges/be8ccc9d-e239-4e96-bbdf-a8386949259f"
+      - label: "Artificial Intelligence Nanodegree (Udacity)"
+        details: "https://graduation.udacity.com/confirm/VXCKPCKN"
+      - label: "Agile Software Developer Nanodegree (Udacity)"
+        details: "https://graduation.udacity.com/confirm/6P7PJMCG"
+      - label: "Blockchain Developer Nanodegree (Udacity)"
+        details: "https://graduation.udacity.com/confirm/JTLCSGHC"
+      - label: "Scrum Foundation Professional Certification (SFPC)"
+        details: "https://www.credly.com/badges/2b27c5ba-239d-400d-981d-e19b24b718cd"
+      - label: "Object Detection Course (Udacity)"
+        details: ""
+      - label: "First Certificate in English (Cambridge B2)"
+        details: ""
+      - label: "Additional training and certifications"
+        details: "https://luislf.xyz/certif"
+
+    publications:
+      - title: "Photomatch — Open-source multi-view and multi-modal feature matching tool for photogrammetric applications."
+        authors: ["Luis López Fernández", "…"]
+      - title: "GRAPHOS — Open-source software for photogrammetric applications."
+        authors: ["Luis López Fernández", "…"]
+      - title: "Feature matching evaluation for multimodal correspondence."
+        authors: ["Luis López Fernández", "…"]
+      - title: "Automatic evaluation of photovoltaic power stations from high-density RGB-T 3D point clouds."
+        authors: ["Luis López Fernández", "…"]
+      - title: "Large-scale automatic analysis and classification of roof surfaces for solar panel installation using multi-sensor aerial platforms."
+        authors: ["Luis López Fernández", "…"]
+      - title: "Thermographic and mobile indoor mapping for energy-loss computation in buildings."
+        authors: ["Luis López Fernández", "…"]
+      - title: "Full list available at: https://luislf.xyz/publ"
+        authors: ["Luis López Fernández"]
+
+    interests:
+      - "Mountain biking, hiking & mountaineering"
+      - "Snowboarding & snowshoeing"
+      - "Traveling and outdoor exploration"
+      - "Reading and blogging on AI ethics and innovation"
+      - "Continuous learning and self-improvement"
+      - "Passion for cutting-edge technology and responsible AI"
