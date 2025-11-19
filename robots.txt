@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://luislofer89.github.io/sitemap.xml
+Sitemap: https://www.luislf.xyz/sitemap.xml
