@@ -14,7 +14,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Feel free to explore my research, projects, and blog posts.
   Don't hesitate to reach out if you'd like to connect or collaborate!
 footer_text: >
-  This website is WIP. 
+  This website is WIP.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -194,6 +194,9 @@ exclude:
   - _pages/profiles.md
   - _pages/teaching.md
   - _pages/repositories.md
+  - _pages/publications.md
+  - _pages/projects.md
+  - _pages/blog.md
   - _news/sample_announcement_complex.md
   - purgecss.config.js
   - README.md

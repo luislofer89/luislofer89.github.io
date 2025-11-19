@@ -2,7 +2,7 @@
   "basics": {
     "name": "Luis López Fernández",
     "role": "AI Engineer & Project Lead",
-    "image": "assets/img/prof_pic.jpg",  
+    "image": "assets/img/prof_pic.jpg",
     "email": "luislofer+work@proton.me",
     "phone": "+41 78 727 82 85",
     "url": "https://luislf.xyz",
@@ -98,9 +98,9 @@
       "startDate": "2013-09",
       "endDate": "2017-07",
       "highlights": [
-      "Advanced research in computer vision & photogrammetry (feature extraction, multimodal registration, 3D reconstruction) applied to energy-efficiency assessment in built environments.",
-      "Developed automated workflows integrating thermal imaging, LiDAR, and RGB data for detection, quantification, and geospatial modelling of energy-loss patterns in industrial and civil infrastructure.",
-      "Published and disseminated findings through peer-reviewed papers, conference presentations, and collaborative projects bridging academic research with industry energy-optimisation use cases."
+        "Advanced research in computer vision & photogrammetry (feature extraction, multimodal registration, 3D reconstruction) applied to energy-efficiency assessment in built environments.",
+        "Developed automated workflows integrating thermal imaging, LiDAR, and RGB data for detection, quantification, and geospatial modelling of energy-loss patterns in industrial and civil infrastructure.",
+        "Published and disseminated findings through peer-reviewed papers, conference presentations, and collaborative projects bridging academic research with industry energy-optimisation use cases."
       ]
     },
     {
@@ -111,9 +111,9 @@
       "startDate": "2012-09",
       "endDate": "2013-07",
       "highlights": [
-      "Integrated software engineering best practices (modular geospatial data pipelines, version-controlled photogrammetry & LiDAR processing) for reproducible cartographic workflows.",
-      "Applied ML & AI (feature extraction, multimodal registration, semantic segmentation) to geomatic datasets (UAV imagery, terrestrial/mobile LiDAR) enabling high-accuracy 3D reconstruction & mapping.",
-      "Engineered automated geospatial processing services (ETL for GNSS, imagery, point clouds; QA; metadata enrichment) to accelerate engineering & architectural decision support."
+        "Integrated software engineering best practices (modular geospatial data pipelines, version-controlled photogrammetry & LiDAR processing) for reproducible cartographic workflows.",
+        "Applied ML & AI (feature extraction, multimodal registration, semantic segmentation) to geomatic datasets (UAV imagery, terrestrial/mobile LiDAR) enabling high-accuracy 3D reconstruction & mapping.",
+        "Engineered automated geospatial processing services (ETL for GNSS, imagery, point clouds; QA; metadata enrichment) to accelerate engineering & architectural decision support."
       ]
     },
     {
@@ -124,9 +124,9 @@
       "startDate": "2007-09",
       "endDate": "2011-07",
       "highlights": [
-      "Built strong foundations in classical surveying: geodesy, topographic measurement, traverse & leveling adjustment, coordinate systems, and error propagation.",
-      "Executed field campaigns integrating traditional instruments (GNSS, total station) with modern reality-capture technologies (mobile/terrestrial LiDAR, UAV photogrammetry, panoramic imaging) for high-accuracy 3D mapping.",
-      "Applied multi-sensor spatial data fusion (LiDAR + imagery + GNSS) and remote sensing preprocessing (orthorectification, radiometric handling) to engineering decision support in capstone project."
+        "Built strong foundations in classical surveying: geodesy, topographic measurement, traverse & leveling adjustment, coordinate systems, and error propagation.",
+        "Executed field campaigns integrating traditional instruments (GNSS, total station) with modern reality-capture technologies (mobile/terrestrial LiDAR, UAV photogrammetry, panoramic imaging) for high-accuracy 3D mapping.",
+        "Applied multi-sensor spatial data fusion (LiDAR + imagery + GNSS) and remote sensing preprocessing (orthorectification, radiometric handling) to engineering decision support in capstone project."
       ]
     },
     {
@@ -137,9 +137,9 @@
       "startDate": "2013-09",
       "endDate": "2016-06",
       "highlights": [
-      "Developed cross-platform desktop/mobile applications with RESTful APIs (Java, Kotlin, C#, Android).",
-      "Implemented data persistence (MySQL/PostgreSQL, ORM) and applied MVC/MVVM, SOLID, and automated testing (JUnit, Gradle).",
-      "Used Git & Agile/Scrum while integrating authentication, secure input handling, and basic encryption."
+        "Developed cross-platform desktop/mobile applications with RESTful APIs (Java, Kotlin, C#, Android).",
+        "Implemented data persistence (MySQL/PostgreSQL, ORM) and applied MVC/MVVM, SOLID, and automated testing (JUnit, Gradle).",
+        "Used Git & Agile/Scrum while integrating authentication, secure input handling, and basic encryption."
       ]
     },
     {
@@ -275,12 +275,35 @@
     {
       "name": "Artificial Intelligence & Machine Learning",
       "level": "Expert",
-      "keywords": ["Generative AI", "Deep Learning", "Reinforcement Learning", "NLP", "LLMs", "Computer Vision", "Photogrammetry", "3D Reconstruction", "Data Fusion", "Feature Matching"]
+      "keywords": [
+        "Generative AI",
+        "Deep Learning",
+        "Reinforcement Learning",
+        "NLP",
+        "LLMs",
+        "Computer Vision",
+        "Photogrammetry",
+        "3D Reconstruction",
+        "Data Fusion",
+        "Feature Matching"
+      ]
     },
     {
       "name": "Programming & Frameworks",
       "level": "Expert",
-      "keywords": ["Python", "PyTorch", "TensorFlow", "Scikit-learn", "OpenCV", "NumPy", "Pandas", "Matplotlib", "Hugging Face Transformers", "Docker", "Git"]
+      "keywords": [
+        "Python",
+        "PyTorch",
+        "TensorFlow",
+        "Scikit-learn",
+        "OpenCV",
+        "NumPy",
+        "Pandas",
+        "Matplotlib",
+        "Hugging Face Transformers",
+        "Docker",
+        "Git"
+      ]
     },
     {
       "name": "Data & Infrastructure",
@@ -290,7 +313,16 @@
     {
       "name": "Project Management & Methodologies",
       "level": "Advanced",
-      "keywords": ["Agile", "Scrum", "Kanban", "Project Lifecycle Management", "Stakeholder Communication", "Leadership", "Mentoring", "Technical Documentation"]
+      "keywords": [
+        "Agile",
+        "Scrum",
+        "Kanban",
+        "Project Lifecycle Management",
+        "Stakeholder Communication",
+        "Leadership",
+        "Mentoring",
+        "Technical Documentation"
+      ]
     }
   ],
   "languages": [
