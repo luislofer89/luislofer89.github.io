@@ -7,16 +7,19 @@ first_name: Luis
 middle_name:
 last_name: López Fernández
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  I'm open to collaborations and opportunities in the fields of AI, spatial intelligence and project leadership.
+  Feel free to reach out to me via email or connect with me on LinkedIn!
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Welcome to my personal website!
+  Feel free to explore my research, projects, and blog posts.
+  Don't hesitate to reach out if you'd like to connect or collaborate!
 footer_text: >
   This website is WIP. 
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://luislofer89.github.io # the base hostname & protocol for your site
+url: https://www.luislf.xyz # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
