@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "<br>AI Engineer & Project Lead</br> · Generative AI & Spatial Intelligence"
+subtitle: "AI Engineer & Project Lead · Generative AI & Spatial Intelligence"
 
 profile:
   align: right
@@ -28,12 +28,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m Luis López Fernández, an "AI Engineer" and "Project Lead" focused on turning complex data into real-world products. Over the last decade I’ve worked across academic, research and industry, leading teams that shipped multiple computer vision and artificial intelligence solutions.
+I'm Luis López Fernández, an AI Engineer and Project Lead specializing in translating complex data into production-ready solutions. Over the past decade, I've led teams bridging research and industry to ship computer vision and AI systems at scale.
 
-My path into AI started in geospatial technologies: surveying, photogrammetry 3D reconstruction & computer vision. During my PhD, I worked at the intersection of CV, AI and and geospatial technologies applied to energy efficiency, using multimodal and multidimensional data (LiDAR, thermal and RGB imagery, among others) to understand how buildings and infrastructure behave in the real world. That research mindset stayed with me as I moved into industry, where I’ve helped design and implement ADAS systems, large-scale spatial analytics pipelines and multiple generative AI solutions.
+My foundation is in geospatial technologies and perception, applying computer vision and artificial intelligence to real-world challenges. During my PhD, I pioneered multimodal data fusion (LiDAR, thermal, RGB imagery) for building energy efficiency analysis. This research rigor carries forward into my industry work: from ADAS systems integrated in multiple automotive OEMs and Tier 1 suppliers, to large-scale spatial analytics and generative AI solutions integrated into Hexagon's portfolio.
 
-Today, I lead AI and innovation projects, from real-time perception solutions to spatial intelligence platforms and generative agentic systems that bring cutting-edge AI technologies into Hexagon’s portfolio. I enjoy working at the intersection of disciplines, connecting researchers, engineers and business stakeholders, and guiding teams from early experimentation to deployed systems with measurable impact.
+Today, I design and lead AI initiatives spanning real-time perception, spatial intelligence platforms, and agentic systems. I thrive at the intersection of research, engineering, and business—connecting stakeholders and guiding teams from exploration to deployed impact.
 
-I care deeply about responsible and human-centred AI, continuous learning and knowledge sharing through publications, talks and mentoring. If you’re interested in collaborating on AI, geospatial technologies or project leadership, I’m always open to a conversation.
+I'm passionate about responsible AI, continuous learning, and sharing knowledge through publications, speaking, and mentoring. Open to collaborations in AI, geospatial tech, or scaling AI-driven products.
 
-Outside of work you’ll most likely find me in the mountains —mountain biking, hiking or enjoying the snow—. Sport has always been an important part of my life: I rowed and competed at national level in my youth. Today, I channel rowing discipline and team spirit both into my prersonal and professional life. I currently enjoy exploring my own boundaries trough endurance sports, having participated in multiple long-distance challenges and currently preparing for an Ironman.
+When not working, I'm in the mountains—mountain biking, hiking, or snowboarding. Sport shapes my mindset: as a former competitive rower, I apply that same discipline to endurance challenges and am currently training for an Ironman.

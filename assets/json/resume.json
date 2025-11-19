@@ -6,7 +6,7 @@
     "email": "luislofer+work@proton.me",
     "phone": "+41 78 727 82 85",
     "url": "https://luislf.xyz",
-    "summary": "AI engineer and project lead specialising in generative AI and spatial intelligence, with 10+ years turning complex data into real-world products across research, automotive and industrial technology.",
+    "summary": "AI Engineer & Project Lead specializing in translating complex data into production-ready solutions. Over 10+ years bridging research and industry to ship computer vision, spatial intelligence, and generative AI systems at scale.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -22,12 +22,12 @@
       }
     ],
     "highlights": [
-      "Led AI and innovation projects that turn complex data into value-added solutions.<br>",
-      "Designed and delivered real-time perception and ADAS solutions in the automotive domain.<br>",
-      "Built geospatial and spatial intelligence pipelines combining LiDAR, imagery and GNSS data.<br>",
-      "Developed and integrated generative AI prototypes into Hexagon’s products and processes.<br>",
-      "Acted as an interface between researchers, engineers and business stakeholders to identify and deliver measurable impact.<br>",
-      "Contributed to the AI and geospatial communities through publications, talks and mentoring.<br>"
+      "Led AI and innovation projects that turn complex data into value-added solutions.",
+      "Designed and delivered real-time perception and ADAS solutions in the automotive domain.",
+      "Built geospatial and spatial intelligence pipelines combining LiDAR, imagery and GNSS data.",
+      "Developed and integrated generative AI prototypes into Hexagon’s products and processes.",
+      "Acted as an interface between researchers, engineers and business stakeholders to identify and deliver measurable impact.",
+      "Contributed to the AI and geospatial communities through publications, talks and mentoring."
     ]
   },
   "work": [
@@ -44,7 +44,7 @@
         "Designed ML infrastructure for scalable training and deployment of models in production.",
         "Coordinated multidisciplinary teams of engineers & researchers across departments.",
         "Designed and implemented generative AI solutions supporting Hexagon AB processes and product portfolio.",
-        "Explored LLM and multimodal generation techniques for enterprise integration."
+        "Spearheaded LLM and multimodal generation initiatives for enterprise integration."
       ]
     },
     {
@@ -55,7 +55,7 @@
       "startDate": "2014-06",
       "endDate": "Present",
       "highlights": [
-        "Investigated geomatics & machine learning applications for energy optimisation.",
+        "Led research on geomatics & machine learning applications for energy optimisation.",
         "Contributed to software development & scientific publications on remote sensing.",
         "Conducted research and consulting in photogrammetry, computer vision, and artificial intelligence.",
         "Collaborated on funded research projects and academic–industry partnerships.",
@@ -132,31 +132,17 @@
     {
       "institution": "C.I.F.P. de Avilés",
       "area": "Software Development",
-      "studyType": "VET: Advanced Vocational Training in Multiplatform Applications Development",
+      "studyType": "VET: Advanced Vocational Training in Multiplatform & Web Application Development",
       "location": "Avilés, Spain",
-      "startDate": "2013-09",
+      "startDate": "2013-08",
       "endDate": "2016-06",
       "highlights": [
-        "Developed cross-platform desktop/mobile applications with RESTful APIs (Java, Kotlin, C#, Android).",
-        "Implemented data persistence (MySQL/PostgreSQL, ORM) and applied MVC/MVVM, SOLID, and automated testing (JUnit, Gradle).",
-        "Used Git & Agile/Scrum while integrating authentication, secure input handling, and basic encryption."
-      ]
-    },
-    {
-      "institution": "C.I.F.P. de Avilés",
-      "area": "Software Development",
-      "studyType": "VET: Advanced Vocational Training in Web Applications Development",
-      "location": "Avilés, Spain",
-      "startDate": "2013-09",
-      "endDate": "2016-06",
-      "highlights": [
-        "Developed full-stack web applications (HTML5/CSS3/JavaScript) with responsive, accessible, performant UI.",
-        "Implemented secure backend REST APIs (Python/Node.js) with SQL databases, auth, validation & basic hardening.",
-        "Collaborated using Agile workflows & Git for version control and iterative delivery."
+        "Developed cross-platform desktop/mobile applications (Java, Kotlin, C#, Android) and full-stack web applications (HTML5/JS, Python/Node.js).",
+        "Implemented secure RESTful APIs, data persistence (SQL/ORM), and applied MVC/MVVM patterns with automated testing.",
+        "Collaborated using Agile/Scrum workflows and Git for version control and iterative delivery."
       ]
     }
   ],
-  "awards": [],
   "certificates": [
     {
       "name": "Professional Data Engineer",
@@ -197,12 +183,6 @@
     {
       "name": "Object Detection Course",
       "issuer": "Udacity",
-      "date": "",
-      "url": ""
-    },
-    {
-      "name": "First Certificate in English (Cambridge B2)",
-      "issuer": "Cambridge",
       "date": "",
       "url": ""
     },
@@ -263,7 +243,7 @@
       "authors": ["Luis López Fernández", "…"]
     },
     {
-      "name": "Full list available at: https://luislf.xyz/publ",
+      "name": "See full publication list online",
       "publisher": "Website",
       "releaseDate": "Present",
       "url": "https://luislf.xyz/publ",
@@ -273,55 +253,43 @@
   ],
   "skills": [
     {
-      "name": "Artificial Intelligence & Machine Learning",
-      "level": "Expert",
+      "name": "Generative AI & Agents",
+      "level": "Proficient",
       "keywords": [
-        "Generative AI",
-        "Deep Learning",
-        "Reinforcement Learning",
-        "NLP",
-        "LLMs",
-        "Computer Vision",
-        "Photogrammetry",
-        "3D Reconstruction",
-        "Data Fusion",
-        "Feature Matching"
+        "Agentic & RAG architectures",
+        "LLM observability, evaluation & benchmarking",
+        "Prompt & context engineering",
+        "LLM fine-tuning & preference alignment"
       ]
     },
     {
-      "name": "Programming & Frameworks",
-      "level": "Expert",
+      "name": "Perception and Spatial Intelligence",
+      "level": "Proficient",
       "keywords": [
-        "Python",
-        "PyTorch",
-        "TensorFlow",
-        "Scikit-learn",
-        "OpenCV",
-        "NumPy",
-        "Pandas",
-        "Matplotlib",
-        "Hugging Face Transformers",
-        "Docker",
-        "Git"
+        "Image & point cloud processing",
+        "Geospatial analytics",
+        "3D computer vision and AI",
+        "Sensor fusion and calibration"
       ]
     },
     {
-      "name": "Data & Infrastructure",
-      "level": "Advanced",
-      "keywords": ["MLOps", "Model Deployment", "Cloud Platforms", "GCP", "AWS", "Data Pipelines", "CI/CD", "Monitoring", "Logging"]
-    },
-    {
-      "name": "Project Management & Methodologies",
+      "name": "Cloud/Edge Engineering",
       "level": "Advanced",
       "keywords": [
-        "Agile",
-        "Scrum",
-        "Kanban",
-        "Project Lifecycle Management",
-        "Stakeholder Communication",
-        "Leadership",
-        "Mentoring",
-        "Technical Documentation"
+        "Cloud architectures (AWS/Azure/GCP)",
+        "Edge & real-time systems",
+        "AI production pipelines",
+        "Containerization & orchestration (Docker, Kubernetes)"
+      ]
+    },
+    {
+      "name": "Leadership & Strategy",
+      "level": "Developing/Enthusiast",
+      "keywords": [
+        "Research-to-product execution",
+        "Portofolio & project leadership",
+        "Cross-functional team coordination",
+        "Stakeholder management"
       ]
     }
   ],
@@ -336,49 +304,25 @@
     },
     {
       "language": "German",
-      "fluency": "Basic (conversational, small talk)"
+      "fluency": "Basic (Conversational)"
+    },
+    {
+      "language": "French",
+      "fluency": "Initiate"
     }
   ],
   "interests": [
     {
-      "name": "Outdoor & Mountain Sports",
-      "keywords": ["Mountain biking", "Hiking", "Mountaineering", "Snowboarding", "Snowshoeing"]
-    },
-    {
-      "name": "Travel & Exploration",
-      "keywords": ["Traveling", "Outdoor exploration"]
-    },
-    {
-      "name": "AI Ethics & Innovation",
-      "keywords": ["Reading", "Blogging", "Responsible AI"]
+      "name": "Outdoor & Sports",
+      "keywords": ["Triathlon (swim, bike, run)", "Hiking & trail running", "Climbing",  "Snowboarding"]
     },
     {
       "name": "Continuous Learning",
-      "keywords": ["Self-improvement", "Cutting-edge technology"]
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ],
-  "projects": [
-    {
-      "name": "Generative AI Prototypes Portfolio",
-      "summary": "Prototypes integrating LLM & multimodal generation into Hexagon AB workflows & products.",
-      "highlights": ["Architecture design", "Enterprise integration", "Model evaluation"],
-      "startDate": "2023-10-01",
-      "endDate": "Present",
-      "url": ""
+      "keywords": ["Self-improvement", "Cutting-edge technology", "leadership and motivation"]
     },
     {
-      "name": "Real-time LiDAR Processing Stack",
-      "summary": "Deployment-ready perception stack for ADAS platforms (LiDAR/RADAR/Camera fusion).",
-      "highlights": ["High-throughput pipelines", "Sensor calibration", "Edge deployment"],
-      "startDate": "2018-03-01",
-      "endDate": "2020-06-01",
-      "url": ""
+      "name": "Spare time",
+      "keywords": ["Reading", "Traveling", "Photography", "Gaming"]
     }
   ]
 }
