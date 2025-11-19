@@ -1,200 +1,352 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "name": "Luis López Fernández",
+    "role": "AI Engineer & Project Lead",
+    "image": "assets/img/prof_pic.jpg",  
+    "email": "luislofer@proton.me",
+    "phone": "+41 78 727 82 85",
+    "url": "https://luislf.xyz",
+    "summary": "AI engineer and project lead specialising in generative AI and spatial intelligence, with 10+ years turning complex data into real-world products across research, automotive and industrial technology.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "CH",
+      "region": "St. Gallen"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "luislopezfdez",
+        "url": "https://www.linkedin.com/in/luislopezfdez"
       }
+    ],
+    "highlights": [
+      "Led AI and innovation projects that turn complex data into value-added solutions.<br>",
+      "Designed and delivered real-time perception and ADAS solutions in the automotive domain.<br>",
+      "Built geospatial and spatial intelligence pipelines combining LiDAR, imagery and GNSS data.<br>",
+      "Developed and integrated generative AI prototypes into Hexagon’s products and processes.<br>",
+      "Acted as an interface between researchers, engineers and business stakeholders to identify and deliver measurable impact.<br>",
+      "Contributed to the AI and geospatial communities through publications, talks and mentoring.<br>"
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Hexagon Innovation Hub GmbH",
+      "position": "AI Engineer & Project Lead",
+      "location": "Heerbrugg, Switzerland",
+      "url": "https://hexagon.com/ai",
+      "startDate": "2020-07",
+      "endDate": "Present",
+      "highlights": [
+        "Architected AI solutions for efficient processing of multimodal data (point clouds, imagery, GNSS).",
+        "Managed and executed research projects, proofs of concept, and feasibility studies.",
+        "Designed ML infrastructure for scalable training and deployment of models in production.",
+        "Coordinated multidisciplinary teams of engineers & researchers across departments.",
+        "Designed and implemented generative AI solutions supporting Hexagon AB processes and product portfolio.",
+        "Explored LLM and multimodal generation techniques for enterprise integration."
+      ]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Tidop Research Group — University of Salamanca",
+      "position": "Predoctoral/Postdoctoral Researcher & Consultant",
+      "location": "Avila, Spain",
+      "url": "https://tidop.usal.es/en/",
+      "startDate": "2014-06",
+      "endDate": "Present",
+      "highlights": [
+        "Investigated geomatics & machine learning applications for energy optimisation.",
+        "Contributed to software development & scientific publications on remote sensing.",
+        "Conducted research and consulting in photogrammetry, computer vision, and artificial intelligence.",
+        "Collaborated on funded research projects and academic–industry partnerships.",
+        "Provided technical guidance on data fusion & 3D modelling methods."
+      ]
+    },
+    {
+      "name": "CTAG — Automotive Technology Centre of Galicia",
+      "position": "CV/AI Engineer & SCRUM Master",
+      "location": "O Porriño, Spain",
+      "url": "https://ctag.com/en/",
+      "startDate": "2018-03",
+      "endDate": "2020-06",
+      "highlights": [
+        "Developed real-time LiDAR processing stack for ADAS platforms of automotive OEMs.",
+        "Created calibration & perception algorithms for RADAR, LiDAR & camera systems.",
+        "Facilitated Agile/Scrum processes improving team velocity & delivery quality."
+      ]
+    },
+    {
+      "name": "INSITU Engineering",
+      "position": "CV/AI Engineer & R&D Project Lead",
+      "location": "Vigo, Spain",
+      "url": "https://ingenieriainsitu.com/en/",
+      "startDate": "2016-07",
+      "endDate": "2018-02",
+      "highlights": [
+        "Managed AI and computer vision R&D projects combining GNSS, LiDAR and imagery data.",
+        "Designed multi-sensor calibration strategies for infrastructure inspection systems.",
+        "Coordinated technical development teams & project stakeholders."
+      ]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
+      "institution": "University of Salamanca",
+      "area": "Geospatial Technologies",
+      "studyType": "PhD: Geotechnologies applied to Construction, Energy and Industry",
+      "location": "Salamanca, Spain",
+      "startDate": "2013-09",
+      "endDate": "2017-07",
+      "highlights": [
+      "Advanced research in computer vision & photogrammetry (feature extraction, multimodal registration, 3D reconstruction) applied to energy-efficiency assessment in built environments.",
+      "Developed automated workflows integrating thermal imaging, LiDAR, and RGB data for detection, quantification, and geospatial modelling of energy-loss patterns in industrial and civil infrastructure.",
+      "Published and disseminated findings through peer-reviewed papers, conference presentations, and collaborative projects bridging academic research with industry energy-optimisation use cases."
+      ]
+    },
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "institution": "University of Salamanca",
+      "area": "Geospatial Technologies",
+      "studyType": "MSc: Cartographic Geotechnologies applied to Engineering and Architecture",
+      "location": "Salamanca, Spain",
+      "startDate": "2012-09",
+      "endDate": "2013-07",
+      "highlights": [
+      "Integrated software engineering best practices (modular geospatial data pipelines, version-controlled photogrammetry & LiDAR processing) for reproducible cartographic workflows.",
+      "Applied ML & AI (feature extraction, multimodal registration, semantic segmentation) to geomatic datasets (UAV imagery, terrestrial/mobile LiDAR) enabling high-accuracy 3D reconstruction & mapping.",
+      "Engineered automated geospatial processing services (ETL for GNSS, imagery, point clouds; QA; metadata enrichment) to accelerate engineering & architectural decision support."
+      ]
+    },
+    {
+      "institution": "University of Oviedo",
+      "area": "Geospatial Technologies",
+      "studyType": "BSc: Surveying Engineering",
+      "location": "Oviedo, Spain",
+      "startDate": "2007-09",
+      "endDate": "2011-07",
+      "highlights": [
+      "Built strong foundations in classical surveying: geodesy, topographic measurement, traverse & leveling adjustment, coordinate systems, and error propagation.",
+      "Executed field campaigns integrating traditional instruments (GNSS, total station) with modern reality-capture technologies (mobile/terrestrial LiDAR, UAV photogrammetry, panoramic imaging) for high-accuracy 3D mapping.",
+      "Applied multi-sensor spatial data fusion (LiDAR + imagery + GNSS) and remote sensing preprocessing (orthorectification, radiometric handling) to engineering decision support in capstone project."
+      ]
+    },
+    {
+      "institution": "C.I.F.P. de Avilés",
+      "area": "Software Development",
+      "studyType": "VET: Advanced Vocational Training in Multiplatform Applications Development",
+      "location": "Avilés, Spain",
+      "startDate": "2013-09",
+      "endDate": "2016-06",
+      "highlights": [
+      "Developed cross-platform desktop/mobile applications with RESTful APIs (Java, Kotlin, C#, Android).",
+      "Implemented data persistence (MySQL/PostgreSQL, ORM) and applied MVC/MVVM, SOLID, and automated testing (JUnit, Gradle).",
+      "Used Git & Agile/Scrum while integrating authentication, secure input handling, and basic encryption."
+      ]
+    },
+    {
+      "institution": "C.I.F.P. de Avilés",
+      "area": "Software Development",
+      "studyType": "VET: Advanced Vocational Training in Web Applications Development",
+      "location": "Avilés, Spain",
+      "startDate": "2013-09",
+      "endDate": "2016-06",
+      "highlights": [
+        "Developed full-stack web applications (HTML5/CSS3/JavaScript) with responsive, accessible, performant UI.",
+        "Implemented secure backend REST APIs (Python/Node.js) with SQL databases, auth, validation & basic hardening.",
+        "Collaborated using Agile workflows & Git for version control and iterative delivery."
+      ]
     }
   ],
+  "awards": [],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Professional Data Engineer",
+      "issuer": "Google",
+      "date": "",
+      "url": "https://www.credential.net/ecf7d251-c22a-442b-aece-f9c68c888987"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": "Project Management Certificate",
+      "issuer": "Google",
+      "date": "",
+      "url": "https://www.credly.com/badges/be8ccc9d-e239-4e96-bbdf-a8386949259f"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "name": "Artificial Intelligence Nanodegree",
+      "issuer": "Udacity",
+      "date": "",
+      "url": "https://graduation.udacity.com/confirm/VXCKPCKN"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
+      "name": "Agile Software Developer Nanodegree",
+      "issuer": "Udacity",
+      "date": "",
+      "url": "https://graduation.udacity.com/confirm/6P7PJMCG"
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
+      "name": "Blockchain Developer Nanodegree",
+      "issuer": "Udacity",
+      "date": "",
+      "url": "https://graduation.udacity.com/confirm/JTLCSGHC"
     },
     {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "Scrum Foundation Professional Certification (SFPC)",
+      "issuer": "Scrum Foundation / Credly",
+      "date": "",
+      "url": "https://www.credly.com/badges/2b27c5ba-239d-400d-981d-e19b24b718cd"
+    },
+    {
+      "name": "Object Detection Course",
+      "issuer": "Udacity",
+      "date": "",
+      "url": ""
+    },
+    {
+      "name": "First Certificate in English (Cambridge B2)",
+      "issuer": "Cambridge",
+      "date": "",
+      "url": ""
+    },
+    {
+      "name": "Additional training & certifications",
+      "issuer": "Various",
+      "date": "Present",
+      "url": "https://luislf.xyz/certif"
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Photomatch — Open-source multi-view and multi-modal feature matching tool for photogrammetric applications.",
+      "publisher": "",
+      "releaseDate": "",
+      "url": "",
+      "summary": "",
+      "authors": ["Luis López Fernández", "…"]
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "GRAPHOS — Open-source software for photogrammetric applications.",
+      "publisher": "",
+      "releaseDate": "",
+      "url": "",
+      "summary": "",
+      "authors": ["Luis López Fernández", "…"]
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Feature matching evaluation for multimodal correspondence.",
+      "publisher": "",
+      "releaseDate": "",
+      "url": "",
+      "summary": "",
+      "authors": ["Luis López Fernández", "…"]
+    },
+    {
+      "name": "Automatic evaluation of photovoltaic power stations from high-density RGB-T 3D point clouds.",
+      "publisher": "",
+      "releaseDate": "",
+      "url": "",
+      "summary": "",
+      "authors": ["Luis López Fernández", "…"]
+    },
+    {
+      "name": "Large-scale automatic analysis and classification of roof surfaces for solar panel installation using multi-sensor aerial platforms.",
+      "publisher": "",
+      "releaseDate": "",
+      "url": "",
+      "summary": "",
+      "authors": ["Luis López Fernández", "…"]
+    },
+    {
+      "name": "Thermographic and mobile indoor mapping for energy-loss computation in buildings.",
+      "publisher": "",
+      "releaseDate": "",
+      "url": "",
+      "summary": "",
+      "authors": ["Luis López Fernández", "…"]
+    },
+    {
+      "name": "Full list available at: https://luislf.xyz/publ",
+      "publisher": "Website",
+      "releaseDate": "Present",
+      "url": "https://luislf.xyz/publ",
+      "summary": "Full publication list online.",
+      "authors": ["Luis López Fernández"]
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "name": "Artificial Intelligence & Machine Learning",
+      "level": "Expert",
+      "keywords": ["Generative AI", "Deep Learning", "Reinforcement Learning", "NLP", "LLMs", "Computer Vision", "Photogrammetry", "3D Reconstruction", "Data Fusion", "Feature Matching"]
+    },
+    {
+      "name": "Programming & Frameworks",
+      "level": "Expert",
+      "keywords": ["Python", "PyTorch", "TensorFlow", "Scikit-learn", "OpenCV", "NumPy", "Pandas", "Matplotlib", "Hugging Face Transformers", "Docker", "Git"]
+    },
+    {
+      "name": "Data & Infrastructure",
+      "level": "Advanced",
+      "keywords": ["MLOps", "Model Deployment", "Cloud Platforms", "GCP", "AWS", "Data Pipelines", "CI/CD", "Monitoring", "Logging"]
+    },
+    {
+      "name": "Project Management & Methodologies",
+      "level": "Advanced",
+      "keywords": ["Agile", "Scrum", "Kanban", "Project Lifecycle Management", "Stakeholder Communication", "Leadership", "Mentoring", "Technical Documentation"]
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "language": "Spanish",
+      "fluency": "Native"
     },
     {
       "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "fluency": "Fluent (professional and negotiation)"
+    },
+    {
+      "language": "German",
+      "fluency": "Basic (conversational, small talk)"
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "name": "Outdoor & Mountain Sports",
+      "keywords": ["Mountain biking", "Hiking", "Mountaineering", "Snowboarding", "Snowshoeing"]
+    },
+    {
+      "name": "Travel & Exploration",
+      "keywords": ["Traveling", "Outdoor exploration"]
+    },
+    {
+      "name": "AI Ethics & Innovation",
+      "keywords": ["Reading", "Blogging", "Responsible AI"]
+    },
+    {
+      "name": "Continuous Learning",
+      "keywords": ["Self-improvement", "Cutting-edge technology"]
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Available upon request",
+      "reference": ""
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Generative AI Prototypes Portfolio",
+      "summary": "Prototypes integrating LLM & multimodal generation into Hexagon AB workflows & products.",
+      "highlights": ["Architecture design", "Enterprise integration", "Model evaluation"],
+      "startDate": "2023-10-01",
+      "endDate": "Present",
+      "url": ""
+    },
+    {
+      "name": "Real-time LiDAR Processing Stack",
+      "summary": "Deployment-ready perception stack for ADAS platforms (LiDAR/RADAR/Camera fusion).",
+      "highlights": ["High-throughput pipelines", "Sensor calibration", "Edge deployment"],
+      "startDate": "2018-03-01",
+      "endDate": "2020-06-01",
+      "url": ""
     }
   ]
 }
