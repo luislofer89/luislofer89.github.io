@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>St. Gallen, Switzerland</p>
-    <p><a href="mailto:luislofer@proton.me">luislofer@proton.me</a></p>
+    <p><a href="mailto:luislofer+work@proton.me">luislofer+work@proton.me</a></p>
     <p>+41 78 727 82 85</p>
     <p><a href="https://www.linkedin.com/in/luislopezfdez">LinkedIn: luislopezfdez</a></p>
     

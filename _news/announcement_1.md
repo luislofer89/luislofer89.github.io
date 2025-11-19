@@ -1,8 +1,10 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-10-01 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+#### :sparkles: I'm Back! Personal website project resumed :smile:
+
+After a break, I'm excited to announce that work on my personal website has officially resumed. Stay tuned for updates as new features, content, and improvements are coming soon!

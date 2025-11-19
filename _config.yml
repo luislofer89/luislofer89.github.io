@@ -7,7 +7,7 @@ first_name: Luis
 middle_name:
 last_name: López Fernández
 contact_note: >
-  I'm open to collaborations and opportunities in the fields of AI, spatial intelligence and project leadership.
+  I'm open to collaborations and opportunities in the fields of AI, spatial intelligence and project leadership. <br/>
   Feel free to reach out to me via email or connect with me on LinkedIn!
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Welcome to my personal website!
@@ -193,6 +193,8 @@ exclude:
   - _pages/dropdown.md
   - _pages/profiles.md
   - _pages/teaching.md
+  - _pages/repositories.md
+  - _news/sample_announcement_complex.md
   - purgecss.config.js
   - README.md
   - readme_preview/
