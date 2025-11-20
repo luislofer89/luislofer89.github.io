@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "AI Engineer & Project Lead · Generative AI & Spatial Intelligence"
+subtitle: "AI Engineer & Project Lead · Spatial Intelligence & Generative AI"
 
 profile:
   align: right
@@ -28,12 +28,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm Luis López Fernández, an AI Engineer and Project Lead specializing in translating complex data into production-ready solutions. Over the past decade, I've led teams bridging research and industry to ship computer vision and AI systems at scale.
+I'm Luis López Fernández, an "AI Engineer" and "Project Lead" specializing in translating complex data into production-ready solutions. Over the past decade, I've led teams bridging research and industry to ship computer vision and AI systems at scale.
 
-My foundation is in geospatial technologies and perception, applying computer vision and artificial intelligence to real-world challenges. During my PhD, I pioneered multimodal data fusion (LiDAR, thermal, RGB imagery) for building energy efficiency analysis. This research rigor carries forward into my industry work: from ADAS systems integrated in multiple automotive OEMs and Tier 1 suppliers, to large-scale spatial analytics and generative AI solutions integrated into Hexagon's portfolio.
+My foundation is in geospatial technologies and perception, applying computer vision and artificial intelligence to real-world challenges. During my PhD, I pioneered multimodal data fusion (i.e. LiDAR, RGB and thermal imagery...) and AI technologies for energy efficiency analytics. This research rigor is applied since then in my industry work: from ADAS systems deployed in automotive OEMs and "Tier 1" suppliers, to large-scale spatial analytics and generative AI solutions integrated into Hexagon's portfolio.
 
-Today, I design and lead AI initiatives spanning real-time perception, spatial intelligence platforms, and agentic systems. I thrive at the intersection of research, engineering, and business—connecting stakeholders and guiding teams from exploration to deployed impact.
+Today, I design and lead AI initiatives spanning across real-time perception, spatial intelligence platforms and agentic systems. I thrive at the intersection of research, engineering, and business—connecting development teams with stakeholders and guiding teams from exploration to deployed impact.
 
-I'm passionate about responsible AI, continuous learning, and sharing knowledge through publications, speaking, and mentoring. Open to collaborations in AI, geospatial tech, or scaling AI-driven products.
-
-When not working, I'm in the mountains—mountain biking, hiking, or snowboarding. Sport shapes my mindset: as a former competitive rower, I apply that same discipline to endurance challenges and am currently training for an Ironman.
+When not working, you can find me in the mountains—mountain biking, hiking, or snowboarding. Sport shapes my mindset: as a former competitive rower, I apply that same team work and discipline to my daily life. I'm passionate of endurance sports, participating frequently in long-distance races and currently training for an Ironman.
