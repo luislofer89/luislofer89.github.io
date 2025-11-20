@@ -2,5 +2,10 @@
   "devDependencies": {
     "@shopify/prettier-plugin-liquid": "1.4.0",
     "prettier": "3.1.1"
+  },
+  "dependencies": {
+    "jsonresume-theme-cora": "^0.1.1",
+    "puppeteer": "^24.30.0",
+    "resumed": "^6.1.0"
   }
 }
